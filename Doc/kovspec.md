@@ -5,7 +5,7 @@ A Debreceni Általános Iskolában az alsós osztályokban kisebb tanulási prob
 
 A házi feladatokból és az órán megfigyelt teljesítményből az a kövezkeztetés jött le, hogy feljeszteni kell a tanulás módszerét.
 
-Az igazatónőnek az az ötlete támadt, hogy valamilyen digitális formában kellene megszerettetni és megértetni a számolási módszereket.
+Az igazgatónőnek az az ötlete támadt, hogy valamilyen digitális formában kellene megszerettetni és megértetni a számolási módszereket.
 
 A jelenlegi módszer az iskolában munkafüzetekben lévő példák, néha a tábláról másolt feladatok megoldása.
 
@@ -41,4 +41,15 @@ Az elvégzett feladatsor után eredményt is ad a felület.
 ## 5. A rendszerre vonatkozó szabályok
 
 ## 6. Követelménylista
+* Könnyen használható/átlátható felület.
+* Játékos, mókás megjelenés
+* Interaktív felület
+* Feladatok generálása
+* Feladatok nehézségi szintje legyen választható
+* A megoldások kiértékelése
+* A visszajelzés a válasz helyességétől függően
+* A hibás válasz esetén megmutatja a helyes megoldás módszerét
+* Tippek adása hogy milyen úton kezdje el (ha elakadna)
+* Útmutató a tanároknak (tutorial)
+* Színes képek használata
 
