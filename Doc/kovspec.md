@@ -5,7 +5,7 @@ A Debreceni Általános Iskolában az alsós osztályokban kisebb tanulási prob
 
 A házi feladatokból és az órán megfigyelt teljesítményből az a kövezkeztetés jött le, hogy feljeszteni kell a tanulás módszerét.
 
-Az igazatónőnek az az ötlete támadt, hogy valamilyen digitális formában kellene megszerettetni és megértetni a számolási módszereket.
+Az igazgatónőnek az az ötlete támadt, hogy valamilyen digitális formában kellene megszerettetni és megértetni a számolási módszereket.
 
 A jelenlegi módszer az iskolában munkafüzetekben lévő példák, néha a tábláról másolt feladatok megoldása.
 
