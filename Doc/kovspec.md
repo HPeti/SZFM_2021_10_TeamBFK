@@ -1,4 +1,4 @@
-#
+# Számológép követelmény specifikáció
 
 ## 1. Jelenlegi helyzet
 
