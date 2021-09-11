@@ -1,10 +1,12 @@
 # Számtan gyakorló Funkcióspecifikáció
 
-## 6. Használati esetek
+## 7. Használati esetek
 
-## 7. Képernyőtervek
+## 8. Képernyőtervek
+![Képernyőterv az alkalmazásról](/Doc/images/plan_image.jpg)
 
-## 8. Forgatókönyvek
+GitHub elérése a [képnek](https://github.com/HPeti/SZFM_2021_10_TeamBFK/blob/master/Doc/images/plan_image.jpg).
+## 9. Forgatókönyvek
 
-## 9. Fogalomszótár
+## 10. Fogalomszótár
 
