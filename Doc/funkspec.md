@@ -1,10 +1,13 @@
 # Számtan gyakorló Funkcióspecifikáció
 
-## 6. Használati esetek
+## 7. Használati esetek
 
-## 7. Képernyőtervek
+## 8. Képernyőtervek
+![Képernyőterv az alkalmazásról](/Doc/images/plan_image.jpg)
 
-## 8. Forgatókönyvek
+GitHub elérése a [képnek](https://github.com/HPeti/SZFM_2021_10_TeamBFK/blob/master/Doc/images/plan_image.jpg).
+
+## 9. Forgatókönyvek
 ### 1. Melyik osztályba tartozol?
     1. Az oldal tetején található lesz egy legördülő lista.
     2. A legördülő listára kattintva válaszd ki milyen nehézségi szinten generálja le a feladatokat!
@@ -21,5 +24,5 @@
     1. Amint beadtad a megoldásaidat, meg fog jelenni az általad elért eredmény.
     2. Ha valamelyik feladatod elrontottad, akkor megjelenik a helyes válasz, amit figyelmesen olvass el!
 
-## 9. Fogalomszótár
+## 10. Fogalomszótár
 
