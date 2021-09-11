@@ -1,4 +1,4 @@
-# Számológép Funkcióspecifikáció
+# Számtan gyakorló Funkcióspecifikáció
 
 ## 6. Használati esetek
 

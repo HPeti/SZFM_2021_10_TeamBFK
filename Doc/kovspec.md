@@ -1,4 +1,4 @@
-# Számológép követelmény specifikáció
+# Számtan gyakorló követelmény specifikáció
 
 ## 1. Jelenlegi helyzet
 
