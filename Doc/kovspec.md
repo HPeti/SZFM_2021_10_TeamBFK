@@ -64,6 +64,9 @@ Az elvégzett feladatsor után eredményt is ad a felület.
 * 4.5. A tanóra keretein belül tanulók gyakorolhatnak, akár gépterembe is(módosítva)
 
 ## 5. A rendszerre vonatkozó szabályok
+* A webes felület HTML, CSS, és JavaScript használatával készüljön.
+* Egy webszerver segítségével működjön a honlap akár helyileg, akár online is.
+* A képek JPG vagy PNG formátumúak legyenek.
 
 ## 6. Követelménylista
 * Könnyen használható/átlátható felület.
