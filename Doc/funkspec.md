@@ -49,6 +49,25 @@ Az elvégzett feladatsor után eredményt is ad a felület.
 * 3.4. feladatok megoldása önállóan
 * 3.5. számonkérés
 
+## 4. Igényelt üzleti folyamatok
+* 4.1. Weboldal működésének elmagyarázása a tanárok részére
+  * 4.1.1. Oldal részeinek bemutatása
+  * 4.1.2. Oldalon történő navigálás bemutatása
+  * 4.1.3. Példa feladatok megoldásának bemutatása
+* 4.2. Tantermi eszközök
+  * 4.2.1. Osztálytermi laptop vagy számítógép bekapcsolása és a weboldal betöltése
+  * 4.2.2. Projektor bekapcsolása és a kép kivetítése
+* 4.3. Műveletek elmagyarázása a tanulók részére
+  * 4.3.1. Művelethez szükséges elmélet és a módszerek bemutatása
+  * 4.3.2. Példák bemutatása (akár képeken keresztül)
+* 4.4. Weboldal használata a tanulókkal közösen
+* 4.5. A tanóra keretein belül tanulók gyakorolhatnak, akár gépterembe is
+
+## 5. A rendszerre vonatkozó szabályok
+* A webes felület HTML, CSS, és JavaScript használatával készüljön.
+* Egy webszerver segítségével működjön a honlap akár helyileg, akár online is.
+* A képek JPG vagy PNG formátumúak legyenek.
+
 ## 6. Követelménylista
 * Könnyen használható/átlátható felület.
 * Játékos, mókás megjelenés
