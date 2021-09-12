@@ -1,5 +1,18 @@
 # Számtan gyakorló Funkcióspecifikáció
 
+## 6. Követelménylista
+* Könnyen használható/átlátható felület.
+* Játékos, mókás megjelenés
+* Interaktív felület
+* Feladatok generálása
+* Feladatok nehézségi szintje legyen választható
+* A megoldások kiértékelése
+* A visszajelzés a válasz helyességétől függően
+* A hibás válasz esetén megmutatja a helyes megoldás módszerét
+* Tippek adása hogy milyen úton kezdje el (ha elakadna)
+* Útmutató a tanároknak (tutorial)
+* Színes képek használata
+
 ## 7. Használati esetek
 
 ## 8. Képernyőtervek
