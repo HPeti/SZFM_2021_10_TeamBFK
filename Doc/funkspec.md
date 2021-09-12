@@ -63,7 +63,8 @@ Az elvégzett feladatsor után eredményt is ad a felület.
 * Színes képek használata
 
 ## 7. Használati esetek
-
+* Weboldal betöltése -> nehézségi szint kiválasztása -> válaszok megadása -> válaszok leadása -> pontok megnézése
+* Weboldal betöltése -> műveletek elméleteinek és képeinek olvasása
 ## 8. Képernyőtervek
 ![Képernyőterv az alkalmazásról](/Doc/images/plan_image.jpg)
 
