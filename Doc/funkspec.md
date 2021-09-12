@@ -34,6 +34,21 @@ A példák megoldása után a felület megoldást ad.
 
 Az elvégzett feladatsor után eredményt is ad a felület.
 
+## 3. Jelenlegi üzleti folyamatok
+* 3.1. Eszközök beszerzése
+    * 3.1.1. Munkafüzetek, tankönyvek beszerzése tanárok és esetleg diákok számára
+    * 3.1.2. Nem digitalizált módon történő oktatáshoz szükséges eszközök: Kréta, papír, nyomtató, nyomtató karbantartásához szükséges eszközök (színes és fekete patron stb.)
+* 3.2. Műveletek elmagyarázása (osztályfüggő)
+  * 3.2.1. összeadás
+  * 3.2.2. kivonás
+  * 3.2.3. szorzás
+  * 3.2.4. osztás
+* 3.3. feladatok megoldása közösen (esetleges további magyarázás)
+    * 3.3.1. Különórák, tanárok idejének speciális beosztása
+    * 3.3.2. Délutáni különórák esetében további felmerülő költségek: Tanárok bérezése, télen sötétedés után világítás stb.
+* 3.4. feladatok megoldása önállóan
+* 3.5. számonkérés
+
 ## 6. Követelménylista
 * Könnyen használható/átlátható felület.
 * Játékos, mókás megjelenés
