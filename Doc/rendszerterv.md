@@ -34,6 +34,23 @@ A projekt részeinek heti lebontása az alábbi táblázatban látható:
 ## 3. Üzleti folyamatok modelle
 
 ## 4. Követelmények
+A rendszerrel szemben támasztott __általános követelmények__:
+* A rendszer funkcióit bármelyik felhasználó használhatja.
+* Webes működés, amely elérhető számítógépekről és mobileszközökről is
+* Ha szükséges az adattárolás, akkor MySQL adatbázisba történjen
+* Az eredményellenőrzés Javascript segítségével történik (kérdésadatbázis esetén akár PHP-val is történhet a későbbiekben)
+
+__Felülettel__ szemben támasztott követelmények:
+* Letisztult és átlátható felülettel rendelkezzen a weboldal
+* Gyerekbarát megjelenése legyen az oldalnak, amely játékos vagy mókás benyomást keltsen
+* Szines képek használata, amely fel tudja kelteni a figyelmet
+* Interaktív felület a kérdések megválaszolásához
+* Visszajelzés a válaszok eredményéről, esetleges megoldás megadása
+* Reszponzív webdesign mobilos megjelenítés esetén
+
+__Funkcionális követelmények__:
+* A felhasználók ki tudják tölteni a válaszokat a kérdésekhez és erről kapjanak visszajelzést.
+* A későbbiekben a felhasználó kezelés szükséges ha tanároknak több funkciója lesz a weboldalon. (jogosultságok)
 
 ## 5. Funkcionális terv
 * A rendszer résztvevői:
