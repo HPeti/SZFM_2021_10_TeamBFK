@@ -28,7 +28,14 @@
         * Az alapértelmezett felhasználói mód.
         * A feladatokat tudja csak megoldani.
 ## 6. Fizikai környezet
-
+* A weboldal Android és bármely webplatfromra lett tervezve rezponzívan.
+* A weboldal a népszerű webböngészők közül bármelyiken elfut. (pl.: Chrome, Firefox, Opera, Microsoft Edge, Safari, Brave)
+* Fejlesztői szoftvereink:
+    * Visual Studio Code
+    * Trello
+    * Github
+    * Phpmyadmin
+    * UML Diagram Tool
 ## 7. Absztrakt domain modell
 
 Alapműveletek: összeadás, kivonás, szorzás, osztás. Ezekhez a műveletekhez fog a program feladatokat adni.
