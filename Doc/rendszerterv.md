@@ -48,6 +48,9 @@ __Felülettel__ szemben támasztott követelmények:
 * Visszajelzés a válaszok eredményéről, esetleges megoldás megadása
 * Reszponzív webdesign mobilos megjelenítés esetén
 
+__Funkcionális követelmények__:
+* A felhasználók ki tudják tölteni a válaszokat a kérdésekhez és erről kapjanak visszajelzést.
+* A későbbiekben a felhasználó kezelés szükséges ha tanároknak több funkciója lesz a weboldalon. (jogosultságok)
 
 ## 5. Funkcionális terv
 * A rendszer résztvevői:
