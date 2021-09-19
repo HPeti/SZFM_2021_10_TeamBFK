@@ -20,7 +20,9 @@ Kliens-szerver oldalon php/javascript segítségével kiértékelésre kerül a 
 
 ## 8. Architekturális terv
 
-
+HTML megjeleníti a feladatokat és a feladatokhoz tartozó leírást.
+Javascriptnek 2 része van: az egyik amely legenerálja a feladatokat, a másik meg kiértékeli ezekre a választ.
+Rendszer bővítésére lehetőség például felhasználó azonosítása (tanár/ diák), A tanárnak lehetősége van feladatokat/ feladatsorokat létrehozni, csoport létrehozás. Diákok eredményeinek tárolása.
 
 ## 9. Adatbázis terv
 
