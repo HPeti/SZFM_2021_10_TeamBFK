@@ -51,6 +51,8 @@ Rendszer bővítésére lehetőség például felhasználó azonosítása (taná
 ## 9. Adatbázis terv
 
 ## 10. Implementációs terv
+    A weboldalt leginkább PHP-, HTML-, CSS-, illetve JavaScriptben fogjuk elkészíteni. A főbb alkotó elemeket külön fileokba csoportosítjuk hogy az esetlegesen felmerülő változtatási
+    javaslatokat könyebben tudjuk végrehajtani.
 
 ## 11. Tesztterv
 
