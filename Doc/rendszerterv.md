@@ -14,7 +14,13 @@
 
 ## 7. Absztrakt domain modell
 
+Alapműveletek: összeadás, kivonás, szorzás, osztás. Ezekhez a műveletekhez fog a program feladatokat adni.
+UI: Ezen tud a felhasználó szintet választani, illetve válaszokat adni. A visszajelzés is ezen a felületen jelenik meg.
+Kliens-szerver oldalon php/javascript segítségével kiértékelésre kerül a válasz. 
+
 ## 8. Architekturális terv
+
+
 
 ## 9. Adatbázis terv
 
