@@ -28,8 +28,8 @@ A projekt részeinek heti lebontása az alábbi táblázatban látható:
 | Funkcionális specifikáció | fejenként 20-40 sor | Dokumentáció | Alacsony | 2021. 09. 13. | 8 | 7 | 0 |
 | Rendszerterv | fejenként 40-80 sor + 1-2 ábra| Dokumentáció | Normál | 2021. 09. 20. | 12 | 8 | 4 |
 | Fejlesztés | fejenként 100-200 sor | Fejlesztés | Fontos | 2021. 09. 27. | 12 | ? | ? |
-| Tesztelés | fejenként 10-20 tesztlépés + dokumentáció ezekről | Fejlesztés | Fontos | 2021. 09. 27. 0:00 | 8 | ? | ? |
-| Értékelés | ?| ? | ? | 2021. 10. 4. 0:00 | ? | ? | ? |
+| Tesztelés | fejenként 10-20 tesztlépés + dokumentáció ezekről | Fejlesztés | Fontos | 2021. 09. 27. | 8 | ? | ? |
+| Értékelés | ?| ? | ? | 2021. 10. 4. | ? | ? | ? |
 
 ## 3. Üzleti folyamatok modelle
 
