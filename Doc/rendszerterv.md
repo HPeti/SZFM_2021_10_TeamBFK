@@ -1,7 +1,15 @@
 # Rendszerterv
 
 ## 1. A rendszer célja
+A rendszer célja, hogy a válaszadók egy átlatható, olvasható és könnyen értelmezhető feladatsort (űrlapot) tölthessenek ki, függetlenül attól, hogy milyen nehézségi szinten teszik ezt. 
+Emiatt akár több osztálynak is lehetősége lesz a tanulásra és gyakorlásra is a weboldalon.
 
+A felhasználói élmény érdekében fontos, hogy a kérdések alapján egyértelműen megadhatóak legyenek a válaszok is. 
+Minden kérdésblokk egymástól jól látható módon, elkülönítve kell megjelennie akár számítógépről vagy mobileszközről is. A böngészők nagy részével kompatibilis lesz a weboldal, ez értendő a működésre és megjelenítésre
+
+A kitöltés során a válaszmezőkbe csak számokat lehet beírni. A kérdések megválaszolása után le kell adni a feladatot, amely az erre kihelyezett gomb segítségével fog működni.
+
+A kitöltők a sikeres kitöltés után egy visszajelzést kapnak, hogy hány pontot értek el az adott feladatsorból. Ha ez az eredmény nem a legjobb, akkor az adott feladattípushoz tartozó művelet megoldásának oldalát mutathatja a weboldal.
 ## 2. Projekt terv
 
 ## 3. Üzleti folyamatok modelle
@@ -28,7 +36,14 @@
         * Az alapértelmezett felhasználói mód.
         * A feladatokat tudja csak megoldani.
 ## 6. Fizikai környezet
-
+* A weboldal Android és bármely webplatfromra lett tervezve rezponzívan.
+* A weboldal a népszerű webböngészők közül bármelyiken elfut. (pl.: Chrome, Firefox, Opera, Microsoft Edge, Safari, Brave)
+* Fejlesztői szoftvereink:
+    * Visual Studio Code
+    * Trello
+    * Github
+    * Phpmyadmin
+    * UML Diagram Tool
 ## 7. Absztrakt domain modell
 
 Alapműveletek: összeadás, kivonás, szorzás, osztás. Ezekhez a műveletekhez fog a program feladatokat adni.
@@ -55,9 +70,27 @@ SQL kód:
 * CREATE TABLE `matematika`.`feladatok` ( `id` INT(5) NOT NULL AUTO_INCREMENT , `feladat` VARCHAR(100) NOT NULL , `csoport` ENUM('Kezdő','Közép','Haladő') NOT NULL , `eredmény` INT(100) NOT NULL , PRIMARY KEY (`id`(5))) ENGINE = InnoDB;
 * CREATE TABLE `matematika`.`valaszok` ( `id` INT(10) NOT NULL AUTO_INCREMENT , `feladat_id` INT(5) NOT NULL , `felhasznalo_id` INT(50) NOT NULL , `valasz` INT(100) NOT NULL , PRIMARY KEY (`id`(10))) ENGINE = InnoDB;
 ## 10. Implementációs terv
+    A weboldalt leginkább PHP-, HTML-, CSS-, illetve JavaScriptben fogjuk elkészíteni. A főbb alkotó elemeket külön fileokba csoportosítjuk hogy az esetlegesen felmerülő változtatási
+    javaslatokat könyebben tudjuk végrehajtani.
 
 ## 11. Tesztterv
 
 ## 12. Telepítési terv
+A rendszerünk szerver-kliens működési elvet követi.
+* Kliens oldali rendszerterv (becslés):
+    * Windows:
+        * Windows 7 vagy frisebb verzió
+        * Intel Pentium 4 vagy újabb ami SSE3-ra alkalmas
+        * Egy webböngésző (Pl.: Firefox, Chrome, Brave)
+    * Linux:
+        * 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, vagy Fedora Linux 32+
+        * Intel Pentium 4 vagy újabb ami SSE3-ra alkalmas
+        * Egy webböngésző (Pl.:Firefox, Chrome, Brave)
+
+* Szerver oldali rendszerterv:
+    * Egy webszerver bérlése
+        * FTP elérése
+        * Adatbázis elérése
+        * Adatbázis kezelése
 
 ## 13. Karbantartási terv
