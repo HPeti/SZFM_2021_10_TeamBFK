@@ -33,6 +33,10 @@ A projekt részeinek heti lebontása az alábbi táblázatban látható:
 
 ## 3. Üzleti folyamatok modelle
 
+1. A Debreceni Általános Iskola felkérte csapatunkat, hogy csináljunk egy számtan gyakorló weboldalt.
+2. A fejlesztőkkel több hetes lebontásba fogjuk megcsinálni a szoftvert, dokumentációkkal mellékelve, a szükséges szerződések megkötésével és eközben folyamatosan kommunikálunk az ügyféllel időszakosan.
+3. Ha az ügyfélnek és a fejlesztőknek is megfelel a szoftver, akkor végül publikáljuk éles szervereken is.
+
 ## 4. Követelmények
 A rendszerrel szemben támasztott __általános követelmények__:
 * A rendszer funkcióit bármelyik felhasználó használhatja.
