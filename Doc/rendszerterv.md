@@ -40,6 +40,15 @@ A rendszerrel szemben támasztott __általános követelmények__:
 * Ha szükséges az adattárolás, akkor MySQL adatbázisba történjen
 * Az eredményellenőrzés Javascript segítségével történik (kérdésadatbázis esetén akár PHP-val is történhet a későbbiekben)
 
+__Felülettel__ szemben támasztott követelmények:
+* Letisztult és átlátható felülettel rendelkezzen a weboldal
+* Gyerekbarát megjelenése legyen az oldalnak, amely játékos vagy mókás benyomást keltsen
+* Szines képek használata, amely fel tudja kelteni a figyelmet
+* Interaktív felület a kérdések megválaszolásához
+* Visszajelzés a válaszok eredményéről, esetleges megoldás megadása
+* Reszponzív webdesign mobilos megjelenítés esetén
+
+
 ## 5. Funkcionális terv
 * A rendszer résztvevői:
     * Rendszeradmin
