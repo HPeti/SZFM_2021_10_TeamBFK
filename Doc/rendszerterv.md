@@ -34,6 +34,11 @@ A projekt részeinek heti lebontása az alábbi táblázatban látható:
 ## 3. Üzleti folyamatok modelle
 
 ## 4. Követelmények
+A rendszerrel szemben támasztott __általános követelmények__:
+* A rendszer funkcióit bármelyik felhasználó használhatja.
+* Webes működés, amely elérhető számítógépekről és mobileszközökről is
+* Ha szükséges az adattárolás, akkor MySQL adatbázisba történjen
+* Az eredményellenőrzés Javascript segítségével történik (kérdésadatbázis esetén akár PHP-val is történhet a későbbiekben)
 
 ## 5. Funkcionális terv
 * A rendszer résztvevői:
