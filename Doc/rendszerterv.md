@@ -12,6 +12,23 @@ A kitöltés során a válaszmezőkbe csak számokat lehet beírni. A kérdések
 A kitöltők a sikeres kitöltés után egy visszajelzést kapnak, hogy hány pontot értek el az adott feladatsorból. Ha ez az eredmény nem a legjobb, akkor az adott feladattípushoz tartozó művelet megoldásának oldalát mutathatja a weboldal.
 ## 2. Projekt terv
 
+A projektben részvevő fejlesztők:
+* Halász Dániel
+* Hegedűs Péter
+* Káplár István
+* Nyika Benedek
+* Sápi Gábor
+
+A projekt részeinek heti lebontása az alábbi táblázatban látható:
+| Funkció | Leírás | Csoportosítás | Prioritás | Határidő | Becslés |Eltelt idő | Hátralévő idő |
+|---------|--------|     :---:     |   :---:   |   :---:  |  :---:  |   :---:   |     :---:     |
+| Követelmény specifikáció | fejenként 10-20 sor | Dokumentáció | Alacsony | 2021. 09. 13. | 4 | 4 | 0 |
+| Funkcionális specifikáció | fejenként 20-40 sor | Dokumentáció | Alacsony | 2021. 09. 13. | 8 | 7 | 0 |
+| Rendszerterv | fejenként 40-80 sor + 1-2 ábra| Dokumentáció | Normál | 2021. 09. 20. | 12 | 8 | 4 |
+| Fejlesztés | fejenként 100-200 sor | Fejlesztés | Fontos | 2021. 09. 27. | 12 | ? | ? |
+| Tesztelés | fejenként 10-20 tesztlépés + dokumentáció ezekről | Fejlesztés | Fontos | 2021. 09. 27. 0:00 | 8 | ? | ? |
+| Értékelés | ?| ? | ? | 2021. 10. 4. 0:00 | ? | ? | ? |
+
 ## 3. Üzleti folyamatok modelle
 
 ## 4. Követelmények
