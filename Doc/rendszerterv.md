@@ -75,12 +75,65 @@ Rendszer bővítésére lehetőség például felhasználó azonosítása (taná
 
 ## 9. Adatbázis terv
 
+Az alap koncepcióhoz nincs szükség adatbázisra. 
+Bővéteés esetén szükség van rá. Ebben az adatbázisban 3 tábla lenne.
+1. felhasználók adatbázisa, 
+2. feladatsorok adatbázisa, 
+3. feladatsorra a válaszok adatbázisa.
+
+SQL kód:
+* create database Matematika;
+* CREATE TABLE `matematika`.`felhasznalo` ( `nev` VARCHAR(50) NOT NULL , `jelszo` VARCHAR(50) NOT NULL , `tipus` ENUM('tanar','diak') NOT NULL , PRIMARY KEY (`nev`(50))) ENGINE = InnoDB;
+* CREATE TABLE `matematika`.`feladatok` ( `id` INT(5) NOT NULL AUTO_INCREMENT , `feladat` VARCHAR(100) NOT NULL , `csoport` ENUM('Kezdő','Közép','Haladő') NOT NULL , `eredmény` INT(100) NOT NULL , PRIMARY KEY (`id`(5))) ENGINE = InnoDB;
+* CREATE TABLE `matematika`.`valaszok` ( `id` INT(10) NOT NULL AUTO_INCREMENT , `feladat_id` INT(5) NOT NULL , `felhasznalo_id` INT(50) NOT NULL , `valasz` INT(100) NOT NULL , PRIMARY KEY (`id`(10))) ENGINE = InnoDB;
 ## 10. Implementációs terv
     A weboldalt leginkább PHP-, HTML-, CSS-, illetve JavaScriptben fogjuk elkészíteni. A főbb alkotó elemeket külön fileokba csoportosítjuk hogy az esetlegesen felmerülő változtatási
     javaslatokat könyebben tudjuk végrehajtani.
 
 ## 11. Tesztterv
 
+* Tesztesetek:
+    1. Linkek tesztelése
+    2. Feladatok tesztelése
+    3. Megjelenés tesztelése
+    4. Login teszt (opcionális fejlesztés esetén)
+
+* Tesztelési elvek:
+    1. Selenium webtesztelés a későbbiekben
+    2. A fejlesztők letesztelik a weboldal egyes részeit és dokumentálják
+    3. Open beta kiadás (felhasználók visszajelzése/bug report)(opcionális)
+
 ## 12. Telepítési terv
 
+A rendszerünk szerver-kliens működési elvet követi.
+* Kliens oldali rendszerterv (becslés):
+    * Windows:
+        * Windows 7 vagy frisebb verzió
+        * Intel Pentium 4 vagy újabb ami SSE3-ra alkalmas
+        * Egy webböngésző (Pl.: Firefox, Chrome, Brave)
+    * Linux:
+        * 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, vagy Fedora Linux 32+
+        * Intel Pentium 4 vagy újabb ami SSE3-ra alkalmas
+        * Egy webböngésző (Pl.:Firefox, Chrome, Brave)
+
+* Szerver oldali rendszerterv:
+    * Egy webszerver bérlése
+        * FTP elérése
+        * Adatbázis elérése
+        * Adatbázis kezelése
+
 ## 13. Karbantartási terv
+
+Általában csak akkor készül el, ha már egy verziót átadtunk és a következő verziót tervezzük.
+
+__A 13. pont módosítási jogát fenntarjuk.__
+
+A szoftver frissítésének esetleges módja:
+* FTP
+* SSH
+
+A frissítés esetén szükséges elvégezni:
+* A szerveren lévő állomány frissítése
+* Frissítés dokumentálása
+* Teszteket újboli futtatása
+* Teszteredméynek dokumentálása
