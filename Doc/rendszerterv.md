@@ -63,6 +63,16 @@ Rendszer bővítésére lehetőség például felhasználó azonosítása (taná
     javaslatokat könyebben tudjuk végrehajtani.
 
 ## 11. Tesztterv
+* Tesztesetek:
+    1. Linkek tesztelése
+    2. Feladatok tesztelése
+    3. Megjelenés tesztelése
+    4. Login teszt (opcionális fejlesztés esetén)
+
+* Tesztelési elvek:
+    1. Selenium webtesztelés a későbbiekben
+    2. A fejlesztők letesztelik a weboldal egyes részeit és dokumentálják
+    3. Open beta kiadás (felhasználók visszajelzése/bug report)(opcionális)
 
 ## 12. Telepítési terv
 A rendszerünk szerver-kliens működési elvet követi.
