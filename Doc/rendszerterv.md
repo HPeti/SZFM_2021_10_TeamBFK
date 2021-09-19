@@ -46,5 +46,21 @@ Kliens-szerver oldalon php/javascript segítségével kiértékelésre kerül a 
 ## 11. Tesztterv
 
 ## 12. Telepítési terv
+A rendszerünk szerver-kliens működési elvet követi.
+* Kliens oldali rendszerterv (becslés):
+    * Windows:
+        * Windows 7 vagy frisebb verzió
+        * Intel Pentium 4 vagy újabb ami SSE3-ra alkalmas
+        * Egy webböngésző (Pl.: Firefox, Chrome, Brave)
+    * Linux:
+        * 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, vagy Fedora Linux 32+
+        * Intel Pentium 4 vagy újabb ami SSE3-ra alkalmas
+        * Egy webböngésző (Pl.:Firefox, Chrome, Brave)
+
+* Szerver oldali rendszerterv:
+    * Egy webszerver bérlése
+        * FTP elérése
+        * Adatbázis elérése
+        * Adatbázis kezelése
 
 ## 13. Karbantartási terv
