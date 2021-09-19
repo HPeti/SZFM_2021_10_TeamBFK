@@ -10,6 +10,7 @@ Minden kérdésblokk egymástól jól látható módon, elkülönítve kell megj
 A kitöltés során a válaszmezőkbe csak számokat lehet beírni. A kérdések megválaszolása után le kell adni a feladatot, amely az erre kihelyezett gomb segítségével fog működni.
 
 A kitöltők a sikeres kitöltés után egy visszajelzést kapnak, hogy hány pontot értek el az adott feladatsorból. Ha ez az eredmény nem a legjobb, akkor az adott feladattípushoz tartozó művelet megoldásának oldalát mutathatja a weboldal.
+
 ## 2. Projekt terv
 
 A projektben részvevő fejlesztők:
@@ -20,6 +21,7 @@ A projektben részvevő fejlesztők:
 * Sápi Gábor
 
 A projekt részeinek heti lebontása az alábbi táblázatban látható:
+
 | Funkció | Leírás | Csoportosítás | Prioritás | Határidő | Becslés |Eltelt idő | Hátralévő idő |
 |---------|--------|     :---:     |   :---:   |   :---:  |  :---:  |   :---:   |     :---:     |
 | Követelmény specifikáció | fejenként 10-20 sor | Dokumentáció | Alacsony | 2021. 09. 13. | 4 | 4 | 0 |
