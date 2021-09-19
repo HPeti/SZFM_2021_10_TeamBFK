@@ -1,7 +1,15 @@
 # Rendszerterv
 
 ## 1. A rendszer célja
+A rendszer célja, hogy a válaszadók egy átlatható, olvasható és könnyen értelmezhető feladatsort (űrlapot) tölthessenek ki, függetlenül attól, hogy milyen nehézségi szinten teszik ezt. 
+Emiatt akár több osztálynak is lehetősége lesz a tanulásra és gyakorlásra is a weboldalon.
 
+A felhasználói élmény érdekében fontos, hogy a kérdések alapján egyértelműen megadhatóak legyenek a válaszok is. 
+Minden kérdésblokk egymástól jól látható módon, elkülönítve kell megjelennie akár számítógépről vagy mobileszközről is. A böngészők nagy részével kompatibilis lesz a weboldal, ez értendő a működésre és megjelenítésre
+
+A kitöltés során a válaszmezőkbe csak számokat lehet beírni. A kérdések megválaszolása után le kell adni a feladatot, amely az erre kihelyezett gomb segítségével fog működni.
+
+A kitöltők a sikeres kitöltés után egy visszajelzést kapnak, hogy hány pontot értek el az adott feladatsorból. Ha ez az eredmény nem a legjobb, akkor az adott feladattípushoz tartozó művelet megoldásának oldalát mutathatja a weboldal.
 ## 2. Projekt terv
 
 ## 3. Üzleti folyamatok modelle
@@ -28,7 +36,14 @@
         * Az alapértelmezett felhasználói mód.
         * A feladatokat tudja csak megoldani.
 ## 6. Fizikai környezet
-
+* A weboldal Android és bármely webplatfromra lett tervezve rezponzívan.
+* A weboldal a népszerű webböngészők közül bármelyiken elfut. (pl.: Chrome, Firefox, Opera, Microsoft Edge, Safari, Brave)
+* Fejlesztői szoftvereink:
+    * Visual Studio Code
+    * Trello
+    * Github
+    * Phpmyadmin
+    * UML Diagram Tool
 ## 7. Absztrakt domain modell
 
 Alapműveletek: összeadás, kivonás, szorzás, osztás. Ezekhez a műveletekhez fog a program feladatokat adni.
@@ -37,11 +52,15 @@ Kliens-szerver oldalon php/javascript segítségével kiértékelésre kerül a 
 
 ## 8. Architekturális terv
 
-
+HTML megjeleníti a feladatokat és a feladatokhoz tartozó leírást.
+Javascriptnek 2 része van: az egyik amely legenerálja a feladatokat, a másik meg kiértékeli ezekre a választ.
+Rendszer bővítésére lehetőség például felhasználó azonosítása (tanár/ diák), A tanárnak lehetősége van feladatokat/ feladatsorokat létrehozni, csoport létrehozás. Diákok eredményeinek tárolása.
 
 ## 9. Adatbázis terv
 
 ## 10. Implementációs terv
+    A weboldalt leginkább PHP-, HTML-, CSS-, illetve JavaScriptben fogjuk elkészíteni. A főbb alkotó elemeket külön fileokba csoportosítjuk hogy az esetlegesen felmerülő változtatási
+    javaslatokat könyebben tudjuk végrehajtani.
 
 ## 11. Tesztterv
 
