@@ -69,15 +69,18 @@ Az elvégzett feladatsor után eredményt is ad a felület.
 * A képek JPG vagy PNG formátumúak legyenek.
 
 ## 6. Követelménylista
-* Könnyen használható/átlátható felület.
-* Játékos, mókás megjelenés
-* Interaktív felület
-* Feladatok generálása
-* Feladatok nehézségi szintje legyen választható
-* A megoldások kiértékelése
-* A visszajelzés a válasz helyességétől függően
-* A hibás válasz esetén megmutatja a helyes megoldás módszerét
-* Tippek adása hogy milyen úton kezdje el (ha elakadna)
-* Útmutató a tanároknak (tutorial)
-* Színes képek használata
+| kód| követelmény | részletes leírás|
+| :---: | :--- | :---  |
+| K01 | Letisztult felület| Könnyen használható/átlátható felület.|
+| K02 | Gyerekbarát megjelenés |Játékos, mókás megjelenés. |
+| K03 | Színes képek használata | A felület legyen eléggé izgalmas egy gyermek figyelmének felkeltésére. |
+| K04 | Interaktív felület | A felhasználó részvételére alapuljon. |
+| K05 | Feladatok generálása | Az oldal legyen képes feladatokat generálni.|
+| K06 | Kihívást jelentő feladatok | Feladatok nehézségi szintje legyen választható. |
+| K07 | A megoldások kiértékelése | A weboldal tudja megállapítani a válaszok helyességét.|
+| K08 | Megfelelő visszajelzés | A visszajelzés a válasz helyességétől függően. |
+| K09 | Megoldás megadása | A hibás válasz esetén megmutatja a helyes megoldás módszerét. |
+| K10 | Elakadás segítő | Tippek adása hogy milyen úton kezdje el (ha elakadna). |
+| K11 | Tanárok segítése | Útmutató a tanároknak (tutorial). |
+
 
