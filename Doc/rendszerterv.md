@@ -74,6 +74,7 @@ SQL kód:
     javaslatokat könyebben tudjuk végrehajtani.
 
 ## 11. Tesztterv
+
 * Tesztesetek:
     1. Linkek tesztelése
     2. Feladatok tesztelése
@@ -86,6 +87,7 @@ SQL kód:
     3. Open beta kiadás (felhasználók visszajelzése/bug report)(opcionális)
 
 ## 12. Telepítési terv
+
 A rendszerünk szerver-kliens működési elvet követi.
 * Kliens oldali rendszerterv (becslés):
     * Windows:
@@ -104,3 +106,17 @@ A rendszerünk szerver-kliens működési elvet követi.
         * Adatbázis kezelése
 
 ## 13. Karbantartási terv
+
+Általában csak akkor készül el, ha már egy verziót átadtunk és a következő verziót tervezzük.
+
+__A 13. pont módosítási jogát fenntarjuk.__
+
+A szoftver frissítésének esetleges módja:
+* FTP
+* SSH
+
+A frissítés esetén szükséges elvégezni:
+* A szerveren lévő állomány frissítése
+* Frissítés dokumentálása
+* Teszteket újboli futtatása
+* Teszteredméynek dokumentálása
