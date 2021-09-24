@@ -81,6 +81,20 @@ function randomTask(level) {
     }
 }
 
+function generateTasks() {
+    /* This function generates 8 tasks and writes them into the webpage's elements.
+    Also clears the answers from the inputs.
+    This method is called from the 
+    kerdes_x_szoveg is for the x-th task
+    kerdes_x is for the x-th task's answer
+    */
+    var level = parseInt(getLevel());
+    for (let index = 1; index <= 8; index++) {
+        document.getElementById("kerdes_" + index + "_szoveg").innerHTML = randomTask(level);
+        document.getElementById("kerdes_" + index).value = "";
+    }
+}
+
 /*
 //lines for testing
 console.log(getLevel());
