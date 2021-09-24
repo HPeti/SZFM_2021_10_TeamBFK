@@ -4,6 +4,7 @@
 	<link rel="stylesheet" type="text/css" href="projekt.css">
 	<meta charset="utf-8">
 	<title>Számtan gyakorló</title>
+	<script src="script.js" defer></script> <!--async? -->
 </head>
 <body>
 	<div>
@@ -11,11 +12,11 @@
 	</div>
 	<div id="szintValaszto">
 		<label for="szintek">Szintválasztó:</label>
-		<select id="szintek">
-			<option>1. osztályos szint</option>
-			<option>2. osztályos szint</option>
-			<option>3. osztályos szint</option>
-			<option>4. osztályos szint</option>
+		<select id="szintek" onchange="generateTasks()" value="Válassz szintet!">
+			<option selected disabled>- válassz szintet! -</option>
+			<option value="1">könnyű szint</option>
+			<option value="2">közepes szint</option>
+			<option value="3">nehéz szint</option>
 		</select>
 	</div>
 	<div>
