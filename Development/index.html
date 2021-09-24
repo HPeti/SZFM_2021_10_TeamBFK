@@ -20,64 +20,65 @@
 		</select>
 	</div>
 	<div>
-		<form action="/action_page.php">
+		<form>
 			<div id="elsoNegyKerdes">
 				<div class="kerdesDiv">
-				  <label for="elsoKerdes">1. kérdés</label><br>
-				  <input class="kerdes" type="number" id="elsoKerdes" name="elsoKerdes" value="?">
+				  <label for="kerdes_1">1. kérdés: <span id=kerdes_1_szoveg></span></label><br>
+				  <input class="kerdes" type="number" id="kerdes_1" name="kerdes_1">
 				  <img src="questionMark.jpg" width=100px height=100px class="kerdoJelKep">
 				  <br>
 				</div>
 			  	<div class="kerdesDiv">
-				  <label for="masodikKerdes">2. kérdés</label><br>
-				  <input class="kerdes" type="number" id="masodikKerdes" name="masodikKerdes" value="?">
+				  <label for="kerdes_2">2. kérdés: <span id=kerdes_2_szoveg></span></label><br>
+				  <input class="kerdes" type="number" id="kerdes_2" name="kerdes_2">
 				  <img src="questionMark.jpg" width=100px height=100px class="kerdoJelKep">
 				  <br>
 				</div>
 				<div class="kerdesDiv">
-				  <label for="harmadikKerdes">3. kérdés</label><br>
-				  <input class="kerdes" type="number" id="harmadikKerdes" name="harmadikKerdes" value="?">
+				  <label for="kerdes_3">3. kérdés: <span id=kerdes_3_szoveg></span></label><br>
+				  <input class="kerdes" type="number" id="kerdes_3" name="kerdes_3">
 				  <img src="questionMark.jpg" width=100px height=100px class="kerdoJelKep">
 				  <br>
 				</div>
 				<div class="kerdesDiv">
-				  <label for="negyedikKerdes">4. kérdés</label><br>
-				  <input class="kerdes" type="number" id="negyedikKerdes" name="negyedikKerdes" value="?">
+				  <label for="kerdes_4">4. kérdés: <span id=kerdes_4_szoveg></span></label><br>
+				  <input class="kerdes" type="number" id="kerdes_4" name="kerdes_4">
 				  <img src="questionMark.jpg" width=100px height=100px class="kerdoJelKep">
 				  <br>
 				</div>
 			</div>
 			<div id="masodikNegyKerdes">
 				<div class="kerdesDiv">
-				  <label for="otodikKerdes">5. kérdés</label><br>
-				  <input class="kerdes" type="number" id="otodikKerdes" name="otodikKerdes" value="?">
+				  <label for="kerdes_5">5. kérdés: <span id=kerdes_5_szoveg></span></label><br>
+				  <input class="kerdes" type="number" id="kerdes_5" name="kerdes_5">
 				  <img src="questionMark.jpg" width=100px height=100px class="kerdoJelKep">
 				  <br>
 				</div>
 				<div class="kerdesDiv">
-				  <label for="hatodikKerdes">6. kérdés</label><br>
-				  <input class="kerdes" type="number" id="hatodikKerdes" name="hatodikKerdes" value="?">
+				  <label for="kerdes_6">6. kérdés: <span id=kerdes_6_szoveg></span></label><br>
+				  <input class="kerdes" type="number" id="kerdes_6" name="kerdes_6">
 				  <img src="questionMark.jpg" width=100px height=100px class="kerdoJelKep">
 				  <br>
 				</div>
 				<div class="kerdesDiv">
-				  <label for="hetedikKerdes">7. kérdés</label><br>
-				  <input class="kerdes" type="number" id="hetedikKerdes" name="hetedikKerdes" value="?">
+				  <label for="kerdes_7">7. kérdés: <span id=kerdes_7_szoveg></span></label><br>
+				  <input class="kerdes" type="number" id="kerdes_7" name="kerdes_7">
 				  <img src="questionMark.jpg" width=100px height=100px class="kerdoJelKep">
 				  <br>
 				</div>
 				<div class="kerdesDiv">
-				  <label for="nyolcadikKerdes">8. kérdés</label><br>
-				  <input class="kerdes" type="number" id="nyolcadikKerdes" name="nyolcadikKerdes" value="?">
+				  <label for="kerdes_8">8. kérdés: <span id=kerdes_8_szoveg></span></label><br>
+				  <input class="kerdes" type="number" id="kerdes_8" name="kerdes_8">
 				  <img src="questionMark.jpg" width=100px height=100px class="kerdoJelKep">
 				  <br>
 				</div>
 			</div>
+			<div id="keszGomb">
+				<input id="submit" type="button" value="Beadás és ellenőrzés" onclick="evaluateTasks()">
+			</div>
 		</form>
 	</div>
-	<div id="keszGomb">
-		<input id="submit" type="submit" value="Beadás és ellenőrzés">
-	</div>
+	<p id=eredmeny></p>
 </body>
 <footer>
 	
