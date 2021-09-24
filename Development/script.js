@@ -95,6 +95,50 @@ function generateTasks() {
     }
 }
 
+function calculate(question) {
+    /* This function calculates a value from a given question or statement
+    Example: 1 + 1 -> 2, ...
+    */
+    var elements = question.split(' ');
+    switch (elements[1]) {
+        case "+":
+            return parseInt(elements[0]) + parseInt(elements[2]);
+        case "-":
+            return parseInt(elements[0]) - parseInt(elements[2]);
+        case "*":
+            return parseInt(elements[0]) * parseInt(elements[2]);
+        case "/":
+            return parseInt(elements[0]) / parseInt(elements[2]);
+    }
+}
+
+function evaluateTasks() {
+    /* This function evaluates the given tasks with the given answers from the webpage.
+    Also checks if there are no tasks or no given answers!
+    Returns value into a element which has the id 'eredmeny'.
+    */
+    if (document.getElementById("kerdes_1_szoveg").innerHTML.length == 0) {
+        alert("Nincsenek kiértékelendő feladatok!");
+    }
+    else {
+        var points = 0
+        for (let index = 1; index <= 8; index++) {
+            var question = document.getElementById("kerdes_" + index + "_szoveg").innerHTML;
+            //console.log(question);
+            var answer = document.getElementById("kerdes_" + index).value;
+            //console.log(valasz);
+            if (answer.length != 0) {
+                //console.log(calculate(question));
+                if (calculate(question) == answer) {
+                    //console.log(index + ". question is correct!");
+                    points++;
+                }
+            }
+        }
+        document.getElementById("eredmeny").innerHTML = "Eredmény: " + points;
+    }
+}
+
 /*
 //lines for testing
 console.log(getLevel());
@@ -109,4 +153,9 @@ console.log(randomOperation());
 console.log(randomTask(1));
 console.log(randomTask(2));
 console.log(randomTask(3));
+
+console.log(calculate("1 + 1"));
+console.log(calculate("1 - 1"));
+console.log(calculate("1 * 2"));
+console.log(calculate("8 / 2"));
 */
