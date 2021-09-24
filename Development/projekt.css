@@ -1,5 +1,5 @@
 body{
-	background-color: blue;
+	background-color: rgb(50, 50, 255);
 }
 
 h1, select{
@@ -65,4 +65,21 @@ label{
 	position: absolute;
 	margin-top: auto;
 	margin-bottom: 0;
+}
+
+img:hover {
+	cursor: help;
+}
+
+div span {
+	visibility: hidden;
+	position: absolute;
+}
+
+div img:hover + span {
+	visibility: visible;
+	background-color: rgb(44, 196, 145);
+	font-size: bold;
+	border-radius: 25px;
+	left: 70%;
 }
