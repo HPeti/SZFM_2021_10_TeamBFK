@@ -21,10 +21,51 @@ function randomNumber(length) {
     }
 }
 
+function randomOperation(type) {
+    /* Generates a random operation (+, -, *, /) based on the given type
+    Types:
+    1 -> only + and -
+    2 -> only +, -, and *
+    everything else -> +, -, * and /
+    */
+   //TODO: need to do checks for division!
+    var operationNumber = 0;
+    if (type == 1) {
+        operationNumber = Math.floor(Math.random() * 2); // (max + 1)
+    }
+    else if (type == 2) {
+        operationNumber = Math.floor(Math.random() * 3);
+    }
+    else {
+        operationNumber = Math.floor(Math.random() * 4);
+    }
+    switch (operationNumber) {
+        case 0:
+            //addition
+            return "+";
+        case 1:
+            //subtraction
+            return "-";
+        case 2:
+            //multiplication
+            return "*";
+        case 3:
+            //division
+            return "/";
+        default:
+            //default case is addition
+            return "+";
+    }
+}
+
 /*
 //lines for testing
 console.log(getLevel());
 console.log(randomNumber(1));
 console.log(randomNumber(2));
 console.log(randomNumber());
+
+console.log(randomOperation(1));
+console.log(randomOperation(2));
+console.log(randomOperation());
 */
