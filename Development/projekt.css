@@ -71,7 +71,7 @@ img:hover {
 	cursor: help;
 }
 
-div span {
+.tooltip {
 	visibility: hidden;
 	position: absolute;
 }
@@ -80,6 +80,6 @@ div img:hover + span {
 	visibility: visible;
 	background-color: rgb(44, 196, 145);
 	font-size: bold;
-	border-radius: 25px;
+	border-radius: 1em;
 	left: 70%;
 }
