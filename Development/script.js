@@ -159,3 +159,30 @@ console.log(calculate("1 - 1"));
 console.log(calculate("1 * 2"));
 console.log(calculate("8 / 2"));
 */
+
+function getHelp(id) {
+    /* This function gives the correct helping example to the guy with questionmark image's bubble speach
+    example: 78 * 51   ->   "Szorzás: Mind például..."
+    */
+
+    var phrase = document.getElementById("kerdes_" + id + "_szoveg").innerHTML;
+
+
+    var elements = phrase.split(' ');
+    switch (elements[1]) {
+        case "+":
+            document.getElementById("question_" + id + "_tip").innerHTML = "Összeadás: Például 3 alma és 2 alma az összesen öt alma.";
+            break;
+        case "-":
+            document.getElementById("question_" + id + "_tip").innerHTML = "Kivonás: Például 5 almából megeszel 2 almát, akkor 3 alma marad.";
+            break;
+        case "*":
+            document.getElementById("question_" + id + "_tip").innerHTML = "Szorzás: Például, ha 1 kosárba 3 alma fér, akkor 2 kosárba 6 almád lesz.";
+            break;
+        case "/":
+            document.getElementById("question_" + id + "_tip").innerHTML = "Osztás: Például: 6 almát igazságosan 2 felé bontva 3-at kapsz.";
+            break;
+        default:
+            document.getElementById("question_" + id + "_tip").innerHTML ="Összeadás: +&#10;Kivonás:      - &#10;Szorzás:      *";
+    }
+}
