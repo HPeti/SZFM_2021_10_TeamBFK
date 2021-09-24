@@ -1,5 +1,6 @@
 body{
 	background-color: rgb(50, 50, 255);
+	padding-top: 3%;
 }
 
 h1, select{
@@ -82,4 +83,24 @@ div img:hover + span {
 	font-size: bold;
 	border-radius: 1em;
 	left: 70%;
+}
+
+header {
+	display: inline-block;
+	background-color: rgb(35, 176, 203);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+	z-index: 999
+}
+
+#menu {
+	display:flex;  
+  	list-style:none;
+}
+
+#menu li {
+	padding: auto;
+	padding-left: 2em;
 }
