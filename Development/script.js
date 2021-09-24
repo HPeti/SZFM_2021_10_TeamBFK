@@ -28,7 +28,6 @@ function randomOperation(type) {
     2 -> only +, -, and *
     everything else -> +, -, * and /
     */
-   //TODO: need to do checks for division!
     var operationNumber = 0;
     if (type == 1) {
         operationNumber = Math.floor(Math.random() * 2); // (max + 1)
