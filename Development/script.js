@@ -57,6 +57,30 @@ function randomOperation(type) {
     }
 }
 
+function randomTask(level) {
+    /* Generates a random task, based on the given level (parameter).
+    Levels:
+    1 -> + and - with single digit numbers
+    2 -> +, - and * with single digit numbers
+    3 -> +, -, and * with two digit numbers
+    everything else -> writes '? ? ?' instead of a task (good for error checking)
+    */
+    //TODO: implement case and checks for division operation!
+    switch (level) {
+        case 1:
+            //+ and - with single digits
+            return randomNumber(1).toString() + " " + randomOperation(1) + " " + randomNumber(1).toString();
+        case 2:
+            //+, * and * with single digits
+            return randomNumber(1).toString() + " " + randomOperation(2) + " " + randomNumber(1).toString();
+        case 3:
+            //+, * and * with two digits
+            return randomNumber(2).toString() + " " + randomOperation(2) + " " + randomNumber(2).toString();
+        default:
+            return "? ? ?"; //default case for error checking
+    }
+}
+
 /*
 //lines for testing
 console.log(getLevel());
@@ -67,4 +91,8 @@ console.log(randomNumber());
 console.log(randomOperation(1));
 console.log(randomOperation(2));
 console.log(randomOperation());
+
+console.log(randomTask(1));
+console.log(randomTask(2));
+console.log(randomTask(3));
 */
