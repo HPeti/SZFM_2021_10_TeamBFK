@@ -123,3 +123,24 @@ header img {
 	padding-top: 15%;
 	left: 40%;
 }
+
+#almenu{
+	list-style: none;
+	margin: 0 auto;
+	display: flex;
+}
+
+#almenu li{
+	padding:auto;
+	padding-left:1em;
+}
+
+#almenu li a{
+	text-decoration: none;
+	color:white;
+}
+
+#almenu_container{
+	display: flex;
+	justify-content: center;
+}
