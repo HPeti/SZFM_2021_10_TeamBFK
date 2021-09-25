@@ -74,8 +74,23 @@ function randomTask(level) {
             //+, * and * with single digits
             return randomNumber(1).toString() + " " + randomOperation(2) + " " + randomNumber(1).toString();
         case 3:
-            //+, * and * with two digits
-            return randomNumber(2).toString() + " " + randomOperation(2) + " " + randomNumber(2).toString();
+            //+, -, * with two digit numbers
+            // / has a single digit divisor to make things easier 
+            var firstNumber = randomNumber(2);
+            var secondNumber = 0;
+            var operation = randomOperation(3); //includes divisions too
+            if(operation == "/"){
+                secondNumber = randomNumber(1); // in this case, this is the divisor
+                while(secondNumber == 0 || (firstNumber / secondNumber) % 1 != 0){
+                    firstNumber = randomNumber(2);
+                    secondNumber = randomNumber(1);
+                    //console.log(secondNumber);
+                }
+            }
+            else{
+                secondNumber = randomNumber(2);
+            }
+            return firstNumber.toString() + " " + operation + " " + secondNumber.toString(); 
         default:
             return "? ? ?"; //default case for error checking
     }
@@ -158,6 +173,10 @@ console.log(calculate("1 + 1"));
 console.log(calculate("1 - 1"));
 console.log(calculate("1 * 2"));
 console.log(calculate("8 / 2"));
+
+console.log(10 / 1);
+console.log (10 / 9.9 % 1 == 0);
+console.log((10 / 3) % 1 == 0);
 */
 
 function getHelp(id) {
