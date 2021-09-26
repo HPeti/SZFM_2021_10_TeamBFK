@@ -4,7 +4,7 @@
 
 ## [index.html](../Development/index.html)
 
-**Tesztelést elvégezte**:       HPeti  
+**Tesztelést elvégezte**:       [HPeti](https://github.com/HPeti)  
 **Oldal verziója**:             v0.0.1  
 **Tesztelés ideje**:            2021. 09. 26. 19:30  
 **Operációs rendszer**:         Windows 10 Pro x64 21H1  
