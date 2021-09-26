@@ -2,6 +2,37 @@
 
 ## [MainPage.html](../Development/MainPage.html)
 
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: Oldal jó megjelenése  
+**Várt eredmény**:              Az oldal betölt és megfelelő módon jelenik meg.
+**Kapott eredmény**:            A kapott eredmény megfelelő.
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A menü megjelenése
+**Várt eredmény**:              A menü megelelően jelenik meg.
+**Kapott eredmény**:            A kapott eredmény meg.
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A menü gombjainak megfelelő működése
+**Várt eredmény**:              A menü megelelően működik.
+**Kapott eredmény**:            A linkek megfelelően működnek, de a decoration rajtuk maradt, tehát látszódik, ha már látogattál egy oldalt.
+
+
 ## [index.html](../Development/index.html)
 
 **Tesztelést elvégezte**:       [HPeti](https://github.com/HPeti)  
@@ -47,4 +78,4 @@ ___
 
 ## [Division.html](../Development/Division.html)
 
-## [AboutUs.html](../Development/AboutUs.html)
+## [AboutUs.html](../Development/AboutUs.html)-
