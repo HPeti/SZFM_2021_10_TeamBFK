@@ -223,6 +223,39 @@ ___
 
 **Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
 
+**Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:36  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Chrome Verzió: 93.0.4577.82 (Hivatalos verzió) (x64)  
+**Tesztelt komponens leírása**: Közepes szint feladatainak generálása  
+**Várt eredmény**:              Kivonás, összeadás és szorzás műveletekből kapunk 8db feladatot.  
+**Kapott eredmény**:            A Feladatok helyesen megjelentek. Kivonás, összeadás és szorzás műveleteket tartalmaz.&#9989;
+
+___
+
+**Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:41  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Chrome Verzió: 93.0.4577.82 (Hivatalos verzió) (x64)  
+**Tesztelt komponens leírása**: Nehéz szint feladatainak generálása  
+**Várt eredmény**:              Kivonás, összeadás, szorzás és osztás műveletekből kapunk 8db feladatot.  
+**Kapott eredmény**:            A Feladatok helyesen megjelentek. Kivonás, összeadás, szorzás és osztás műveleteket tartalmaz.&#9989; 
+
+___
+
+**Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:45  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Chrome Verzió: 93.0.4577.82 (Hivatalos verzió) (x64)  
+**Tesztelt komponens leírása**: Input mező  
+**Várt eredmény**:              Az input mezőbe csak számokat lehet beírni.  
+**Kapott eredmény**:            Az input mező kitölthető. Csak számokat lehet beírni.&#9989;    
+
+___
+
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
