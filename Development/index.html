@@ -28,74 +28,70 @@
 			<option value="3">nehéz szint</option>
 		</select>
 	</div>
-	<div>
-		<form>
-			<div id="elsoNegyKerdes">
-				<div class="kerdesDiv">
-				  <label for="kerdes_1">1. kérdés: <span id=kerdes_1_szoveg></span></label><br>
-				  <input class="kerdes" type="number" id="kerdes_1" name="kerdes_1">
-				  <img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(1)">
-				  <span class="tooltip" id="question_1_tip">CSS tooltip showing up&#10; when your mouse over the link</span>
-				  <br>
-				</div>
-			  	<div class="kerdesDiv">
-				  <label for="kerdes_2">2. kérdés: <span id=kerdes_2_szoveg></span></label><br>
-				  <input class="kerdes" type="number" id="kerdes_2" name="kerdes_2">
-				  <img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(2)">
-				  <span class="tooltip" id="question_2_tip"></span>
-				  <br>
-				</div>
-				<div class="kerdesDiv">
-				  <label for="kerdes_3">3. kérdés: <span id=kerdes_3_szoveg></span></label><br>
-				  <input class="kerdes" type="number" id="kerdes_3" name="kerdes_3">
-				  <img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(3)">
-				  <span class="tooltip" id="question_3_tip"></span>
-				  <br>
-				</div>
-				<div class="kerdesDiv">
-				  <label for="kerdes_4">4. kérdés: <span id=kerdes_4_szoveg></span></label><br>
-				  <input class="kerdes" type="number" id="kerdes_4" name="kerdes_4">
-				  <img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(4)">
-				  <span class="tooltip" id="question_4_tip"></span>
-				  <br>
-				</div>
-			</div>
-			<div id="masodikNegyKerdes">
-				<div class="kerdesDiv">
-				  <label for="kerdes_5">5. kérdés: <span id=kerdes_5_szoveg></span></label><br>
-				  <input class="kerdes" type="number" id="kerdes_5" name="kerdes_5">
-				  <img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(5)">
-				  <span class="tooltip" id="question_5_tip"></span>
-				  <br>
-				</div>
-				<div class="kerdesDiv">
-				  <label for="kerdes_6">6. kérdés: <span id=kerdes_6_szoveg></span></label><br>
-				  <input class="kerdes" type="number" id="kerdes_6" name="kerdes_6">
-				  <img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(6)">
-				  <span class="tooltip" id="question_6_tip"></span>
-				  <br>
-				</div>
-				<div class="kerdesDiv">
-				  <label for="kerdes_7">7. kérdés: <span id=kerdes_7_szoveg></span></label><br>
-				  <input class="kerdes" type="number" id="kerdes_7" name="kerdes_7">
-				  <img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(7)">
-				  <span class="tooltip" id="question_7_tip"></span>
-				  <br>
-				</div>
-				<div class="kerdesDiv">
-				  <label for="kerdes_8">8. kérdés: <span id=kerdes_8_szoveg></span></label><br>
-				  <input class="kerdes" type="number" id="kerdes_8" name="kerdes_8">
-				  <img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(8)">
-				  <span class="tooltip" id="question_8_tip"></span>
-				  <br>
-				</div>
-			</div>
-			<div id="keszGomb">
-				<input id="submit" type="button" value="Beadás és ellenőrzés" onclick="evaluateTasks()">
-			</div>
-		</form>
+	<div id="feladatok_grid">
+		<div class="kerdesDiv">
+			<label for="kerdes_1">1. kérdés: <span id=kerdes_1_szoveg></span></label><br>
+			<input class="kerdes" type="number" id="kerdes_1" name="kerdes_1">
+			<img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(1)">
+			<span class="tooltip" id="question_1_tip">CSS tooltip showing up&#10; when your mouse over the link</span>
+			<br>
+		</div>
+		<div class="kerdesDiv">
+			<label for="kerdes_2">2. kérdés: <span id=kerdes_2_szoveg></span></label><br>
+			<input class="kerdes" type="number" id="kerdes_2" name="kerdes_2">
+			<img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(2)">
+			<span class="tooltip" id="question_2_tip"></span>
+			<br>
+		</div>
+		<div class="kerdesDiv">
+			<label for="kerdes_3">3. kérdés: <span id=kerdes_3_szoveg></span></label><br>
+			<input class="kerdes" type="number" id="kerdes_3" name="kerdes_3">
+			<img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(3)">
+			<span class="tooltip" id="question_3_tip"></span>
+			<br>
+		</div>
+		<div class="kerdesDiv">
+			<label for="kerdes_4">4. kérdés: <span id=kerdes_4_szoveg></span></label><br>
+			<input class="kerdes" type="number" id="kerdes_4" name="kerdes_4">
+			<img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(4)">
+			<span class="tooltip" id="question_4_tip"></span>
+			<br>
+		</div>
+		<div class="kerdesDiv">
+			<label for="kerdes_5">5. kérdés: <span id=kerdes_5_szoveg></span></label><br>
+			<input class="kerdes" type="number" id="kerdes_5" name="kerdes_5">
+			<img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(5)">
+			<span class="tooltip" id="question_5_tip"></span>
+			<br>
+		</div>
+		<div class="kerdesDiv">
+			<label for="kerdes_6">6. kérdés: <span id=kerdes_6_szoveg></span></label><br>
+			<input class="kerdes" type="number" id="kerdes_6" name="kerdes_6">
+			<img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(6)">
+			<span class="tooltip" id="question_6_tip"></span>
+			<br>
+		</div>
+		<div class="kerdesDiv">
+			<label for="kerdes_7">7. kérdés: <span id=kerdes_7_szoveg></span></label><br>
+			<input class="kerdes" type="number" id="kerdes_7" name="kerdes_7">
+			<img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(7)">
+			<span class="tooltip" id="question_7_tip"></span>
+			<br>
+		</div>
+		<div class="kerdesDiv">
+			<label for="kerdes_8">8. kérdés: <span id=kerdes_8_szoveg></span></label><br>
+			<input class="kerdes" type="number" id="kerdes_8" name="kerdes_8">
+			<img src="images/questionMark.jpg" width=100px height=100px class="kerdoJelKep" onmouseenter="getHelp(8)">
+			<span class="tooltip" id="question_8_tip"></span>
+			<br>
+		</div>
 	</div>
-	<p id=eredmeny></p>
+	<div id="keszGomb">
+		<input id="submit" type="button" value="Beadás és ellenőrzés" onclick="evaluateTasks()">
+	</div>
+	<div id=eredmenyDiv>
+		<p id="eredmeny"></p>
+	</div>
 	<footer>
 		<div id="footer_copyright">
 			<p>&copy TeamBFK 2021.</p>
