@@ -223,11 +223,19 @@ ___
 **Várt eredmény**:              Az almenüpont megnyomására helyes weboldal töltődik be, amelyen az összeadás műveletről van ismertető.  
 **Kapott eredmény**:            Az összeadás almenüpontokra kattintva megjelenik az ismertető az összeadás műveletről.&#9989;    
 
-
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
 
 ## [Subtraction.html](../Development/Subtraction.html)
+
+**Tesztelést elvégezte**:       [pisti9928](https://github.com/pisti9928)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:49  
+**Operációs rendszer**:         Windows 11 Pro x64 21H2  
+**Használt szoftver**:          Microsoft Edge Verzió: 94.0.992.31 (Hivatalos build) (x64)  
+**Tesztelt komponens leírása**: Kivonás almenüpont  
+**Várt eredmény**:              Az almenüpont megnyomására helyes weboldal töltődik be, amelyen a kivonás műveletről van ismertető.  
+**Kapott eredmény**:            A kivonás almenüpontokra kattintva megjelenik az ismertető a kivonás műveletről.&#9989;    
 
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
