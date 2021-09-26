@@ -13,6 +13,8 @@
 **Várt eredmény**:              Jól pozícionált komponensek.  
 **Kapott eredmény**:            A komponensek a helyükön voltak.    
 
+___
+
 
 ## [Math.html](../Development/Math.html)
 
