@@ -452,7 +452,7 @@ ___
 
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
@@ -462,7 +462,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü megjelenése  
@@ -472,7 +472,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
@@ -532,7 +532,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 21:11  
+**Tesztelés ideje**:            2021. 09. 26. 21:12  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Beadás és ellenőrzés gomb  
@@ -606,7 +606,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
@@ -616,7 +616,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü megjelenése  
@@ -626,7 +626,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
@@ -636,7 +636,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A almenü megjelenése  
@@ -646,7 +646,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A almenü működése  
@@ -711,7 +711,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
@@ -721,7 +721,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü megjelenése  
@@ -731,7 +731,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
@@ -741,7 +741,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A almenü megjelenése  
@@ -751,7 +751,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A almenü működése  
@@ -772,7 +772,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
@@ -782,7 +782,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü megjelenése  
@@ -792,7 +792,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
@@ -802,7 +802,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A almenü megjelenése  
@@ -812,7 +812,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A almenü működése  
@@ -844,7 +844,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
@@ -854,7 +854,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü megjelenése  
@@ -864,7 +864,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
@@ -874,7 +874,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A almenü megjelenése  
@@ -884,7 +884,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A almenü működése  
@@ -905,7 +905,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
@@ -915,7 +915,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü megjelenése  
@@ -925,7 +925,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
@@ -935,7 +935,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A almenü megjelenése  
@@ -945,7 +945,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A almenü működése  
@@ -988,7 +988,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
@@ -998,7 +998,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü megjelenése  
@@ -1008,7 +1008,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
@@ -1018,7 +1018,7 @@ ___
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 20:30  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A github repok és profilok elérése  
