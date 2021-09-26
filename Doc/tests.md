@@ -909,6 +909,17 @@ ___
 
 ---
 
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 23:55  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x  
+**Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
+**Várt eredmény**:              A menü megfelelően működik.  
+**Kapott eredmény**:            A linkek megfelelően működnek.&#9989;
+
+---
+
 **Tesztelést elvégezte**:       [pisti9928](https://github.com/pisti9928)  
 **Oldal verziója**:             v0.0.1  
 **Tesztelés ideje**:            2021. 09. 26. 21:51  
