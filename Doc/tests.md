@@ -10,7 +10,7 @@
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
 **Várt eredmény**:              Az oldal betölt és megfelelő módon jelenik meg.
-**Kapott eredmény**:            A kapott eredmény megfelelő.
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
 
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
@@ -20,7 +20,7 @@
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü megjelenése
 **Várt eredmény**:              A menü megelelően jelenik meg.
-**Kapott eredmény**:            A kapott eredmény meg.
+**Kapott eredmény**:            A kapott eredmény meg.&#9989;
 
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
@@ -30,7 +30,7 @@
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: A menü gombjainak megfelelő működése
 **Várt eredmény**:              A menü megelelően működik.
-**Kapott eredmény**:            A linkek megfelelően működnek, de a decoration rajtuk maradt, tehát látszódik, ha már látogattál egy oldalt.
+**Kapott eredmény**:            A linkek megfelelően működnek, de a decoration rajtuk maradt, tehát látszódik, ha már látogattál egy oldalt.&#10060;
 
 
 ## [index.html](../Development/index.html)
@@ -111,16 +111,35 @@ ___
 **Várt eredmény**:              Összeadást, kivonást, szorzást és osztást generál le, egy jegyű számokkal a megfelelő helyre beillesztve.  
 **Kapott eredmény**:            Összeadást, kivonást, szorzást és osztást, a szabályoknak megfelelően, jó helyre az inputok elé. &#9989;    
 
-___
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
 
 ## [Math.html](../Development/Math.html)
 
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
+
 ## [Addition.html](../Development/Addition.html)
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
 
 ## [Subtraction.html](../Development/Subtraction.html)
 
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
+
 ## [Multiplication.html](../Development/Multiplication.html)
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
 
 ## [Division.html](../Development/Division.html)
 
-## [AboutUs.html](../Development/AboutUs.html)-
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
+
+## [AboutUs.html](../Development/AboutUs.html)
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
