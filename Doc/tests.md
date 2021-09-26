@@ -367,7 +367,7 @@ ___
 **Operációs rendszer**:         Windows 10 Pro x64 21H1  
 **Használt szoftver**:          Brave 1.29.81 (Chromium 93.0.4577.82) (x64)  
 **Tesztelt komponens leírása**: A GitHub linkek a megfelelő oldalakat nyitja meg az összes személynél?  
-**Várt eredmény**:              Az adott embereknél az adott ember profilja nyílik meg.
+**Várt eredmény**:              Az adott embereknél az adott ember profilja nyílik meg.  
 **Kapott eredmény**:            Jó profilok nyíltak meg az adott embereknél. &#9989;    
 
 ---
