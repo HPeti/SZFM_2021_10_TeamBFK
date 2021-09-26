@@ -108,7 +108,7 @@ ___
 
 ---
 
-**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
 **Oldal verziója**:             v0.0.1  
 **Tesztelés ideje**:            2021. 09. 26. 23:15  
 **Operációs rendszer**:         Windows 10 Pro x64 21H1  
@@ -554,11 +554,22 @@ ___
 ---
 **Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Tesztelés ideje**:            2021. 09. 26. 23:29  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Mozilla Firefox 92.0 64x  
 **Tesztelt komponens leírása**: A menü megjelenése  
 **Várt eredmény**:              A menü megfelelően jelenik meg.  
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
+
+---
+
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 23:32  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x
+**Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
+**Várt eredmény**:              A menü megfelelően működik.  
 **Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
 
 ---
