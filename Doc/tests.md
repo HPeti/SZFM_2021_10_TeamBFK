@@ -222,8 +222,6 @@ ___
 ___
 
 **Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
-
-**Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
 **Oldal verziója**:             v0.0.1  
 **Tesztelés ideje**:            2021. 09. 26. 21:36  
 **Operációs rendszer**:         Windows 10 Pro x64 21H1  
