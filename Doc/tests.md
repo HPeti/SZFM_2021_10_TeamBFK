@@ -118,8 +118,88 @@ ___
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
-**Várt eredmény**:              Az oldal betölt és megfelelő módon jelenik meg.
+**Várt eredmény**:              Az oldal betölt és megfelelő módon jelenik meg.  
 **Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A menü megjelenése  
+**Várt eredmény**:              A menü megelelően jelenik meg.  
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
+**Várt eredmény**:              A menü megelelően működik.  
+**Kapott eredmény**:            A linkek megfelelően működnek, de a decoration rajtuk maradt, tehát látszódik, ha már látogattál egy oldalt.&#10060;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:00  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A feladatok div-je megjelenése  
+**Várt eredmény**:              A feladatok div-je megfelelő helyen és méretben jelennek meg  
+**Kapott eredmény**:            A méretezése és az elhelyezése is teljesen elcsúszott.&#10060;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:05  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A number input megfelelően működik  
+**Várt eredmény**:              A number inputba számokat lehet írni.  
+**Kapott eredmény**:            Az IE nem értelmezi a number input typot ezért engedi szövegek beírását is.&#10060;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:07  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: Ha ráviszed az egeret a kis kérdőjeles emberkés képre akkor feljön a segítő buborék.  
+**Várt eredmény**:              A feladatok div-je megfelelő helyen és méretben jelennek meg  
+**Kapott eredmény**:            A méretezése és az elhelyezése is teljesen elcsúszott.&#9989;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A szintválasztó legördülő lista jól jelenik meg  
+**Várt eredmény**:              A szintválasztó legördülő lista jól jelenik meg, alaphelyzetben a "- válassz szintet! -" opción áll  
+**Kapott eredmény**:            Az elvárásoknak megfelel.&#9989;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:11  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A szintválasztó kiválasztásával megfelelő szintű feladatok jelennek meg  
+**Várt eredmény**:              A szintválasztó kiválasztásával megfelelő szintű feladatok jelennek meg.  
+**Kapott eredmény**:            Az elvárásoknak megfelel.&#9989;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:11  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: Beadás és ellenőrzés gomb  
+**Várt eredmény**:              A gomb megnyomásával kiértékeli a válaszaidat és megfelelő visszajelzést ad annak függvényében.  
+**Kapott eredmény**:            Az elvárásoknak megfelel.&#9989;
 
 ## [Math.html](../Development/Math.html)
 
