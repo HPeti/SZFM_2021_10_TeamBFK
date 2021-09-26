@@ -107,6 +107,12 @@ function generateTasks() {
     for (let index = 1; index <= 8; index++) {
         document.getElementById("kerdes_" + index + "_szoveg").innerHTML = randomTask(level);
         document.getElementById("kerdes_" + index).value = "";
+        if (document.getElementById("kerdes_" + index).classList.contains("helyes")){
+            document.getElementById("kerdes_" + index).classList.remove("helyes");
+        }
+        else if (document.getElementById("kerdes_" + index).classList.contains("rossz")){
+            document.getElementById("kerdes_" + index).classList.remove("rossz");
+        }
     }
 }
 
@@ -146,11 +152,18 @@ function evaluateTasks() {
                 //console.log(calculate(question));
                 if (calculate(question) == answer) {
                     //console.log(index + ". question is correct!");
+                    document.getElementById("kerdes_" + index).classList.add("helyes");
                     points++;
                 }
+                else{
+                    document.getElementById("kerdes_" + index).classList.add("rossz");
+                }
+            }
+            else{
+                document.getElementById("kerdes_" + index).classList.add("rossz");
             }
         }
-        document.getElementById("eredmeny").innerHTML = "Eredmény: " + points;
+        document.getElementById("eredmeny").innerHTML = "Eredmény: " + points + "/ 8 pont";
     }
 }
 
