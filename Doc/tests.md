@@ -77,12 +77,23 @@ ___
 
 **Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
 **Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 19:30  
+**Tesztelés ideje**:            2021. 09. 26. 23:07  
 **Operációs rendszer**:         Windows 10 Pro x64 21H1  
 **Használt szoftver**:          Mozilla Firefox 92.0 64x 
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
 **Várt eredmény**:              Jól pozícionált komponensek.  
 **Kapott eredmény**:            A komponensek a helyükön voltak. &#9989;
+
+---
+
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 23:10  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x  
+**Tesztelt komponens leírása**: Szintválasztó szintjeinek megjelenítése  
+**Várt eredmény**:              A választó kattintható, és megjelenik a könnyű, közepes, és nehéz szint  
+**Kapott eredmény**:            Megjelent mindhárom opció a szintválasztóban. &#9989; 
 
 ---
 
