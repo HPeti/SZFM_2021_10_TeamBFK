@@ -2,6 +2,36 @@
 
 ## [MainPage.html](../Development/MainPage.html)
 
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 22:46  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x  
+**Tesztelt komponens leírása**: Oldal jó megjelenése  
+**Várt eredmény**:              Az oldal betöltött és megfelelő módon jelent meg.  
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
+
+---
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 23:00  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x 
+**Tesztelt komponens leírása**: A menü megjelenése  
+**Várt eredmény**:              A menü megelelően jelenik meg.  
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
+
+---
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 23:03  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x  
+**Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
+**Várt eredmény**:              A menü megelelően működik.  
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
+
+---
 **Tesztelést elvégezte**:       [pisti9928](https://github.com/pisti9928)  
 **Oldal verziója**:             v0.0.1  
 **Tesztelés ideje**:            2021. 09. 26. 22:23  
@@ -233,6 +263,35 @@ ___
 ___
 
 **Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:15  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Chrome Verzió: 93.0.4577.82 (Hivatalos verzió) (x64)
+**Tesztelt komponens leírása**: Oldal jó megjelenése  
+**Várt eredmény**:              Jól pozícionált komponensek.  
+**Kapott eredmény**:            A komponensek a helyükön voltak.&#9989;    
+
+___
+
+**Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:20  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Chrome Verzió: 93.0.4577.82 (Hivatalos verzió) (x64) 
+**Tesztelt komponens leírása**: Legördülő lista jó megjelenése  
+**Várt eredmény**:              A legördülő lista elemei megjelennek és kiválaszthatóak.  
+**Kapott eredmény**:            A legördülő lista megjelenik és a 3 nehézségi szint kattintható.&#9989;    
+
+___
+
+**Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:30  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Chrome Verzió: 93.0.4577.82 (Hivatalos verzió) (x64) 
+**Tesztelt komponens leírása**: Könnyű szint feladatainak generálása  
+**Várt eredmény**:              Kivonás és összeadás műveletekből kapunk 8db feladatot.  
+**Kapott eredmény**:            A Feladatok helyesen megjelentek. Kivonás és összeadás műveleteket tartalmaz.&#9989; 
 
 **Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
 **Oldal verziója**:             v0.0.1  
@@ -264,6 +323,29 @@ ___
 **Tesztelt komponens leírása**: Input mező  
 **Várt eredmény**:              Az input mezőbe csak számokat lehet beírni.  
 **Kapott eredmény**:            Az input mező kitölthető. Csak számokat lehet beírni.&#9989;    
+
+___
+
+___
+**Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:49  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Chrome Verzió: 93.0.4577.82 (Hivatalos verzió) (x64)  
+**Tesztelt komponens leírása**: Beadás és ellenőrzés gomb  
+**Várt eredmény**:              A gomb megnyomására kiértékelődik a feladatsor.  
+**Kapott eredmény**:            A gomb lenyomása után megjelenik a feladatsoron elért eredmény, illetve láthatjuk, hogy melyik feladatot oldottuk meg jól, melyiket rosszul.&#9989;    
+
+___
+
+**Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:55  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Chrome Verzió: 93.0.4577.82 (Hivatalos verzió) (x64) 
+**Tesztelt komponens leírása**: Menü működése  
+**Várt eredmény**:              A menüpontok megnyomására helyes weboldal töltődik be.  
+**Kapott eredmény**:            A menüpontokra kattintva megjelennek a megadott oldalak, jól működik.&#9989;    
 
 ___
 
