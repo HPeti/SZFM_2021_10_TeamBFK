@@ -96,18 +96,7 @@ ___
 **Tesztelés ideje**:            2021. 09. 26. 21:47  
 **Operációs rendszer**:         Windows 10 Pro x64 21H1  
 **Használt szoftver**:          Brave 1.29.81 (Chromium 93.0.4577.82) (x64)  
-**Tesztelt komponens leírása**: A közepes szintet kiválasztva megfelelően generálja-e le a feladatokat?  
-**Várt eredmény**:              Csak összeadást, kivonást és szorzást generál le, egy jegyű számokkal a megfelelő helyre beillesztve.  
-**Kapott eredmény**:            Csak összeadást, kivonást és szorzást generált, jó helyre az inputok elé. &#9989;    
-
-___
-
-**Tesztelést elvégezte**:       [HPeti](https://github.com/HPeti)  
-**Oldal verziója**:             v0.0.1  
-**Tesztelés ideje**:            2021. 09. 26. 21:47  
-**Operációs rendszer**:         Windows 10 Pro x64 21H1  
-**Használt szoftver**:          Brave 1.29.81 (Chromium 93.0.4577.82) (x64)  
-**Tesztelt komponens leírása**: A közepes szintet kiválasztva megfelelően generálja-e le a feladatokat?  
+**Tesztelt komponens leírása**: A nehéz szintet kiválasztva megfelelően generálja-e le a feladatokat?  
 **Várt eredmény**:              Összeadást, kivonást, szorzást és osztást generál le, egy jegyű számokkal a megfelelő helyre beillesztve.  
 **Kapott eredmény**:            Összeadást, kivonást, szorzást és osztást, a szabályoknak megfelelően, jó helyre az inputok elé. &#9989;   
 
