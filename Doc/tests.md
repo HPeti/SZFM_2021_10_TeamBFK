@@ -1,17 +1,17 @@
 # Tesztelési jegyzőkönyv a számtan gyakorló oldalhoz
 
-## MainPage.html
+## [MainPage.html](../Development/MainPage.html)
 
-## index.html
+## [index.html](../Development/index.html)
 
-## Math.html
+## [Math.html](../Development/Math.html)
 
-## Addition.html
+## [Addition.html](../Development/Addition.html)
 
-## Division.html
+## [Subtraction.html](../Development/Subtraction.html)
 
-## Multiplication.html
+## [Multiplication.html](../Development/Multiplication.html)
 
-## Division.html
+## [Division.html](../Development/Division.html)
 
-## AboutUs.html
+## [AboutUs.html](../Development/AboutUs.html)
