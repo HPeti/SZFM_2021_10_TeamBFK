@@ -71,12 +71,30 @@ ___
 
 ## [Math.html](../Development/Math.html)
 
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
+
 ## [Addition.html](../Development/Addition.html)
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
 
 ## [Subtraction.html](../Development/Subtraction.html)
 
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
+
 ## [Multiplication.html](../Development/Multiplication.html)
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
 
 ## [Division.html](../Development/Division.html)
 
-## [AboutUs.html](../Development/AboutUs.html)-
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
+
+## [AboutUs.html](../Development/AboutUs.html)
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
