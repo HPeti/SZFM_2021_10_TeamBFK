@@ -2,6 +2,15 @@
 
 ## [MainPage.html](../Development/MainPage.html)
 
+**Tesztelést elvégezte**:       [pisti9928](https://github.com/pisti9928)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 22:23  
+**Operációs rendszer**:         Windows 11 Pro x64 21H2  
+**Használt szoftver**:          Microsoft Edge Verzió: 94.0.992.31 (Hivatalos build) (x64)  
+**Tesztelt komponens leírása**: Oldal jó megjelenése  
+**Várt eredmény**:              Jól pozícionált komponensek.  
+**Kapott eredmény**:            A komponensek a helyükön voltak.&#9989;    
+
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
@@ -305,6 +314,17 @@ ___
 **Tesztelt komponens leírása**: Rólunk almenüpont  
 **Várt eredmény**:              Az almenüpont megnyomására helyes weboldal töltődik be, amelyen megtalálhatóak a Github linkek, illetve a repo linkje.  
 **Kapott eredmény**:            A rólunk almenüpontokra kattintva megjelenik a fejlesztők nevei, github linkjei, illetve a projekt github linkje.&#9989;    
+
+___
+
+**Tesztelést elvégezte**:       [HPeti](https://github.com/HPeti)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 21:13  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Brave 1.29.81 (Chromium 93.0.4577.82) (x64)  
+**Tesztelt komponens leírása**: A GitHub linkek a megfelelő oldalakat nyitja meg az összes személynél? 
+**Várt eredmény**:              Az adott embereknél az adott ember profilja nyílik meg.
+**Kapott eredmény**:            Jó profilok nyíltak meg az adott embereknél. &#9989;    
 
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
