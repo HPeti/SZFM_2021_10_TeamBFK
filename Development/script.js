@@ -114,6 +114,7 @@ function generateTasks() {
             document.getElementById("kerdes_" + index).classList.remove("rossz");
         }
     }
+    document.getElementById("eredmeny").innerHTML = "";
 }
 
 function calculate(question) {
