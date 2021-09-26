@@ -34,6 +34,7 @@
 
 
 ## [index.html](../Development/index.html)
+___
 
 **Tesztelést elvégezte**:       [HPeti](https://github.com/HPeti)  
 **Oldal verziója**:             v0.0.1  
@@ -42,7 +43,7 @@
 **Használt szoftver**:          Brave 1.29.81 (Chromium 93.0.4577.82) (x64)  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
 **Várt eredmény**:              Jól pozícionált komponensek.  
-**Kapott eredmény**:            A komponensek a helyükön voltak.&#9989;    
+**Kapott eredmény**:            A komponensek a helyükön voltak. &#9989;    
 
 ___
 
@@ -53,7 +54,7 @@ ___
 **Használt szoftver**:          Brave 1.29.81 (Chromium 93.0.4577.82) (x64)  
 **Tesztelt komponens leírása**: Szintválasztó szintjeinek megjelenítése  
 **Várt eredmény**:              A választó kattintható, és megjelenik a könnyű, közepes, és nehéz szint  
-**Kapott eredmény**:            Megjelent mindhárom opció a szintválasztóban.&#9989;  
+**Kapott eredmény**:            Megjelent mindhárom opció a szintválasztóban. &#9989;  
 
 ___
 
@@ -64,7 +65,7 @@ ___
 **Használt szoftver**:          Brave 1.29.81 (Chromium 93.0.4577.82) (x64)  
 **Tesztelt komponens leírása**: A szintválasztónál ki tudjuk-e választani az alapértelmezett listaelemet (- válassz szintet! -)?  
 **Várt eredmény**:              Nem tudjuk kiválasztani az alapértelmezett lista elemet.
-**Kapott eredmény**:            A lehetőség megjelenik, nem tudjuk kiválasztani az adott elemet.&#9989;    
+**Kapott eredmény**:            A lehetőség megjelenik, nem tudjuk kiválasztani az adott elemet. &#9989;    
 
 ___
 
