@@ -133,6 +133,17 @@ ___
 
 ___
 
+**Tesztelést elvégezte**:       [HPeti](https://github.com/HPeti)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 22:04  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Brave 1.29.81 (Chromium 93.0.4577.82) (x64)  
+**Tesztelt komponens leírása**: A megoldott feladatok a helyességhez képest jól színnel jelennek meg a leadást követően?  
+**Várt eredmény**:              Piros szín az üres és helytelen feladatoknál, zöld háttérszín a jó feladatoknál.  
+**Kapott eredmény**:            A zöld szín megjelenik a jó válaszoknál, a piros megjelenik az üres és rossz válaszoknál. &#9989;   
+
+___
+
 **Tesztelést elvégezte**:       [pisti9928](https://github.com/pisti9928)  
 **Oldal verziója**:             v0.0.1  
 **Tesztelés ideje**:            2021. 09. 26. 20:43  
@@ -317,7 +328,7 @@ ___
 **Tesztelés ideje**:            2021. 09. 26. 21:13  
 **Operációs rendszer**:         Windows 10 Pro x64 21H1  
 **Használt szoftver**:          Brave 1.29.81 (Chromium 93.0.4577.82) (x64)  
-**Tesztelt komponens leírása**: A GitHub linkek a megfelelő oldalakat nyitja meg az összes személynél? 
+**Tesztelt komponens leírása**: A GitHub linkek a megfelelő oldalakat nyitja meg az összes személynél?  
 **Várt eredmény**:              Az adott embereknél az adott ember profilja nyílik meg.
 **Kapott eredmény**:            Jó profilok nyíltak meg az adott embereknél. &#9989;    
 
