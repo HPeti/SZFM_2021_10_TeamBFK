@@ -2,6 +2,17 @@
 
 ## [MainPage.html](../Development/MainPage.html)
 
+---
+
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: Oldal jó megjelenése  
+**Várt eredmény**:              Jól pozícionált komponensek.  
+**Kapott eredmény**:            A komponensek a helyükön voltak, de a linkek formázása nem maradt meg.
+
 ## [index.html](../Development/index.html)
 
 **Tesztelést elvégezte**:       [HPeti](https://github.com/HPeti)  
@@ -26,4 +37,4 @@ ___
 
 ## [Division.html](../Development/Division.html)
 
-## [AboutUs.html](../Development/AboutUs.html)
+## [AboutUs.html](../Development/AboutUs.html)-
