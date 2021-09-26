@@ -210,6 +210,10 @@ ___
 **Várt eredmény**:              A menüpontok megnyomására helyes weboldal töltődik be.  
 **Kapott eredmény**:            A menüpontokra kattintva megjelennek a megadott oldalak, jól működik.&#9989;    
 
+___
+
+**Tesztelést elvégezte**:       [SapiGabor](https://github.com/SapiGabor)  
+
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
 **Oldal verziója**:             v0.0.1  
@@ -219,6 +223,7 @@ ___
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
 **Várt eredmény**:              Az oldal betölt és megfelelő módon jelenik meg.
 **Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
+
 
 ## [Math.html](../Development/Math.html)
 
