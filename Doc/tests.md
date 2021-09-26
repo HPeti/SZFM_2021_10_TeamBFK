@@ -9,7 +9,7 @@
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
 **Tesztelt komponens leírása**: Oldal jó megjelenése  
-**Várt eredmény**:              Az oldal betölt és megfelelő módon jelenik meg.
+**Várt eredmény**:              Az oldal betölt és megfelelő módon jelenik meg.  
 **Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
 
 ---
@@ -18,8 +18,8 @@
 **Tesztelés ideje**:            2021. 09. 26. 20:10  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
-**Tesztelt komponens leírása**: A menü megjelenése
-**Várt eredmény**:              A menü megelelően jelenik meg.
+**Tesztelt komponens leírása**: A menü megjelenése  
+**Várt eredmény**:              A menü megelelően jelenik meg.  
 **Kapott eredmény**:            A kapott eredmény meg.&#9989;
 
 ---
@@ -28,8 +28,8 @@
 **Tesztelés ideje**:            2021. 09. 26. 20:10  
 **Operációs rendszer**:         Windows 10 Home x64 21H1  
 **Használt szoftver**:          Internet Explorer 11  
-**Tesztelt komponens leírása**: A menü gombjainak megfelelő működése
-**Várt eredmény**:              A menü megelelően működik.
+**Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
+**Várt eredmény**:              A menü megelelően működik.  
 **Kapott eredmény**:            A linkek megfelelően működnek, de a decoration rajtuk maradt, tehát látszódik, ha már látogattál egy oldalt.&#10060;
 
 
@@ -70,7 +70,14 @@ ___
 ___
 
 ---
-**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: Oldal jó megjelenése  
+**Várt eredmény**:              Az oldal betölt és megfelelő módon jelenik meg.
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
 
 ## [Math.html](../Development/Math.html)
 
