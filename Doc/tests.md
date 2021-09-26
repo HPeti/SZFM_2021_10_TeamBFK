@@ -140,6 +140,39 @@ ___
 **Kapott eredmény**:            Összeadást, kivonást, szorzást és osztást, a szabályoknak megfelelően, jó helyre az inputok elé. &#9989;
 
 ---
+     
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 23:20  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x  
+**Tesztelt komponens leírása**: Ha nincs szint kiválasztva, akkor engedi-e az oldal, hogy leadd a feladatot?  
+**Várt eredmény**:              Pop-up ablakba megjelenik, hogy "Nincsenek kiértékelendő felaldatok!" felirat.  
+**Kapott eredmény**:            A pop-up megjelent és jó szöveg jelent meg. &#9989;
+
+---
+
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 23:22  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x  
+**Tesztelt komponens leírása**: A feladatok inputjába csak számot lehet beírni?  
+**Várt eredmény**:              Csak számot engedjen beírni a számos input.  
+**Kapott eredmény**:            Csak számot enged beírni, a nyilak is használhatóak a csökkentéshez és növeléshez &#9989;
+
+---
+
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 22:04  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x  
+**Tesztelt komponens leírása**: A megoldott feladatok a helyességhez képest jól színnel jelennek meg a leadást követően?  
+**Várt eredmény**:              Piros szín az üres és helytelen feladatoknál, zöld háttérszín a jó feladatoknál.  
+**Kapott eredmény**:            A zöld szín megjelenik a jó válaszoknál, a piros megjelenik az üres és rossz válaszoknál. &#9989;
+
+---
 
 **Tesztelést elvégezte**:       [HPeti](https://github.com/HPeti)  
 **Oldal verziója**:             v0.0.1  
