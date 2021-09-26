@@ -619,7 +619,54 @@ ___
 **Kapott eredmény**:            A kivonás almenüpontokra kattintva megjelenik az ismertető a kivonás műveletről.&#9989;    
 
 ---
-**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: Oldal jó megjelenése  
+**Várt eredmény**:              Az oldal betölt és megfelelő módon jelenik meg.  
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A menü megjelenése  
+**Várt eredmény**:              A menü megfelelően jelenik meg.  
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A menü gombjainak megfelelő működése  
+**Várt eredmény**:              A menü megfelelően működik.  
+**Kapott eredmény**:            A linkek megfelelően működnek, de a decoration rajtuk maradt, tehát látszódik, ha már látogattál egy oldalt.&#10060;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A almenü megjelenése  
+**Várt eredmény**:              A almenü megfelelően jelenik meg.  
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989;
+
+---
+**Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 20:10  
+**Operációs rendszer**:         Windows 10 Home x64 21H1  
+**Használt szoftver**:          Internet Explorer 11  
+**Tesztelt komponens leírása**: A almenü működése  
+**Várt eredmény**:              A almenü megfelelően helyre visz.  
+**Kapott eredmény**:            A kapott eredmény megfelelő.&#9989; 
 
 ## [Multiplication.html](../Development/Multiplication.html)
 
