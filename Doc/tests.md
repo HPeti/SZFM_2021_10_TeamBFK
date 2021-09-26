@@ -109,7 +109,7 @@ ___
 **Használt szoftver**:          Brave 1.29.81 (Chromium 93.0.4577.82) (x64)  
 **Tesztelt komponens leírása**: A közepes szintet kiválasztva megfelelően generálja-e le a feladatokat?  
 **Várt eredmény**:              Összeadást, kivonást, szorzást és osztást generál le, egy jegyű számokkal a megfelelő helyre beillesztve.  
-**Kapott eredmény**:            Összeadást, kivonást, szorzást és osztást, a szabályoknak megfelelően, jó helyre az inputok elé. &#9989;    
+**Kapott eredmény**:            Összeadást, kivonást, szorzást és osztást, a szabályoknak megfelelően, jó helyre az inputok elé. &#9989;   
 
 ---
 **Tesztelést elvégezte**:       [Nyika-Benedek](https://github.com/Nyika-Benedek) 
