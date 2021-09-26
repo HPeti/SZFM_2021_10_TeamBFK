@@ -108,6 +108,28 @@ ___
 
 ---
 
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 23:15  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x   
+**Tesztelt komponens leírása**: A könnyű szintet kiválasztva megfelelően generálja-e le a feladatokat?  
+**Várt eredmény**:              Csak összeadást és kivonást generál le, egy jegyű számokkal a megfelelő helyre beillesztve.  
+**Kapott eredmény**:            Csak összeadást és kivonást generált, jó helyre az inputok elé. &#9989;
+
+---
+
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 23:19  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x  
+**Tesztelt komponens leírása**: A közepes szintet kiválasztva megfelelően generálja-e le a feladatokat?  
+**Várt eredmény**:              Csak összeadást, kivonást és szorzást generál le, egy jegyű számokkal a megfelelő helyre beillesztve.  
+**Kapott eredmény**:            Csak összeadást, kivonást és szorzást generált, jó helyre az inputok elé. &#9989; 
+
+---
+
 **Tesztelést elvégezte**:       [HPeti](https://github.com/HPeti)  
 **Oldal verziója**:             v0.0.1  
 **Tesztelés ideje**:            2021. 09. 26. 19:30  
