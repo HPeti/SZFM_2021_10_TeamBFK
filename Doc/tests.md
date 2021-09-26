@@ -163,6 +163,17 @@ ___
 
 ---
 
+**Tesztelést elvégezte**:       [Halász-Dániel](https://github.com/halaszdd)  
+**Oldal verziója**:             v0.0.1  
+**Tesztelés ideje**:            2021. 09. 26. 22:04  
+**Operációs rendszer**:         Windows 10 Pro x64 21H1  
+**Használt szoftver**:          Mozilla Firefox 92.0 64x  
+**Tesztelt komponens leírása**: A megoldott feladatok a helyességhez képest jól színnel jelennek meg a leadást követően?  
+**Várt eredmény**:              Piros szín az üres és helytelen feladatoknál, zöld háttérszín a jó feladatoknál.  
+**Kapott eredmény**:            A zöld szín megjelenik a jó válaszoknál, a piros megjelenik az üres és rossz válaszoknál. &#9989;
+
+---
+
 **Tesztelést elvégezte**:       [HPeti](https://github.com/HPeti)  
 **Oldal verziója**:             v0.0.1  
 **Tesztelés ideje**:            2021. 09. 26. 19:30  
